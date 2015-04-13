@@ -1,9 +1,3 @@
-#EXTINF:-1,Rai 1
-http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
-
-#EXTINF:-1,Rai 2
-http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
-
 #EXTINF:-1,Rai 4
 mmsh://212.162.68.162:80/Rai4/Rai4?MSWMExt=.asf
 
@@ -27,12 +21,6 @@ rtmp://176.31.226.78/ch10live/stream1.sdp
 
 #EXTINF:-1,FOUR MUSIC
 rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
-
-#EXTINF:-1,La 2
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1,La 5
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
 
 #EXTINF:-1,La 6
 rtmp://la6.stream.internetone.it/streaming/la6.stream
