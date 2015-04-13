@@ -241,32 +241,32 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 #EXTINF:0,Bahrain Sports
 rtmp://alayam.netromedia.net/btv3/btv3
 
-#EXTINF:-1,bein sport 1
+#EXTINF:-1,beIN Sport 1
 http://185.56.30.127:8082/TV4001
  
-#EXTINF:-1,bein sport 2
+#EXTINF:-1,beIN Sport 2
 http://185.56.30.127:8082/TV4002
  
-#EXTINF:-1,bein sport 3
+#EXTINF:-1,beIN Sport 3
 http://185.56.30.127:8082/TV4003
  
-#EXTINF:-1,bein sport 4
+#EXTINF:-1,beIN Sport 4
 http://185.56.30.127:8082/TV4004
  
-#EXTINF:-1,bein sport 5
+#EXTINF:-1,beIN Sport 5
 http://185.56.30.127:8082/TV4005
  
-#EXTINF:-1,bein sport 6
+#EXTINF:-1,beIN Sport 6
 http://185.56.30.127:8082/TV4006
  
-#EXTINF:-1,bein sport 7
+#EXTINF:-1,beIN Sport 7
 http://185.56.30.127:8082/TV4007
  
-#EXTINF:-1,bein sport 8
+#EXTINF:-1,beIN Sport 8
 http://185.56.30.127:8082/TV4008
  
-#EXTINF:-1,bein sport 9
+#EXTINF:-1,beIN Sport 9
 http://185.56.30.127:8082/TV4009
  
-#EXTINF:-1,bein sport 10
+#EXTINF:-1,beIN Sport 10
 http://185.56.30.127:8082/TV4010
