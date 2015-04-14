@@ -10,6 +10,12 @@ mmsh://212.162.68.163:80/rai_scuola
 #EXTINF:-1,Rai Storia
 mmsh://212.162.68.163/rai_storia
 
+#EXTINF:0,Rai Gulp
+http://212.162.68.163/Rai_gulp
+
+#EXTINF:0,Rai yoyo
+http://212.162.68.163/Rai_yoyo
+
 #EXTINF:-1,Rai Sport 1
 mmsh://212.162.68.163:80/raisport+
 
@@ -24,3 +30,51 @@ rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
 
 #EXTINF:-1,La 6
 rtmp://la6.stream.internetone.it/streaming/la6.stream
+
+#EXTINF:0,Alto Adige TV
+rtsp://77.72.196.214:8554/live/mp4:AltoAdigeTV
+
+#EXTINF:0,Canale 46
+rtmp://vs2.streamcaster.net/test_live/canale46
+
+#EXTINF:0,Fano TV
+rtmp://live.streamcaster.net/live/fanotv
+
+#EXTINF:0,Landscape Channel HD
+http://130.88.20.233:1237/test.flv
+
+#EXTINF:0,Montecarlo Music
+rtmp://fms.105.net/live/rmc1
+
+#EXTINF:0,Onda TV Messina
+rtsp://live.streamcaster.net:1935/ondatv_live/ondatv
+
+#EXTINF:0,Quartarete TV
+rtmp://194.116.73.146/quartaretetv/quartareteweb
+
+#EXTINF:0,Radio 105 TV
+rtmp://fms.105.net:1935/live/105Test1
+
+#EXTINF:0,Radio Italia Tv
+rtmp://cwedge.cdcache.net/cwedge/rilive
+
+#EXTINF:0,Rmk TV
+http://stream2.ion.it/rmktv
+
+#EXTINF:0,Rock One
+http://mediatv2.topix.it/24RockOne66
+
+#EXTINF:0,Sardegna 1 Sat
+rtmp://94.32.101.13/sardegna1/live1.stream
+
+#EXTINF:0,Senato TV
+rtsp://flash3.glb.ipercast.net:1935/webtv.senato.it-live/_definst_/stream2
+
+#EXTINF:0,Suedtirol TV
+rtsp://77.72.196.214:8554/live/mp4:SuedtirolTV
+
+#EXTINF:0,TeleBoario
+rtmp://91.121.222.160/teleboariotb/teleboario.sdp
+
+#EXTINF:0,Telemarket
+rtmp://fms2.shared.streamshow.it/telemarket/telemarket
