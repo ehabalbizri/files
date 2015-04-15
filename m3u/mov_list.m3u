@@ -97,9 +97,6 @@ http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="Total_Fox Movies HD" tvg-name="Fox_Movies_HD" tvg-logo="fox-movies-HD.png" group-title="Español",Fox Movies HD
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?
 
-#EXTINF:-1 tvg-id="Total_Fox Cinéma" tvg-name="Fox_Cinéma" tvg-logo="fox-cinema.png" group-title="Español",Fox Cinéma
-http://200.76.77.237/LIVE/H01/CANAL421/PROFILE05.m3u8?
-
 #EXTINF:-1 tvg-id="Total_Cinecanal HD" tvg-name="Cinecanal_HD" tvg-logo="cinecanal-hd.png" group-title="Español",Cinecanal HD
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE05.m3u8?
 
