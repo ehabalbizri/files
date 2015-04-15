@@ -1,10 +1,10 @@
-#EXTINF:-1,Medina
+#EXTINF:-1,Sunnah TV
 http://46.245.160.224/medine/medine/gmswf.m3u8
 
 #EXTINF:-1,Quran TV
 http://46.245.160.224/mekke/mekke/gmswf.m3u8
 
-#EXTINF:-1,iqraa
+#EXTINF:-1,Iqraa
 rtmp://web.iptv-planet.com:1937/live2 playpath=iqraa swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=iqraa&width=600&height=400
 
 #EXTINF:-1,Abu Dhabi
@@ -43,7 +43,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
 #EXTINF:-1,Fatafeat
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
-#EXTINF:-1, Cairo Cinema
+#EXTINF:-1,Cairo Cinema
 rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cd&width=600&height=400 
 
 #EXTINF:-1,MBC 2
@@ -121,7 +121,7 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Echorouk
 http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 
-#EXTINF:-1,nessma
+#EXTINF:-1,Nessma
 rtmp://web.iptv-planet.com:1937/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=n&width=600&height=400
 
 #EXTINF:-1,2M 
@@ -256,5 +256,23 @@ http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open
 #EXTINF:0,ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
 
-#EXTINF:-1, ESPN2
+#EXTINF:-1 tvg-id="Total_ESPN HD" tvg-name="ESPN_HD" tvg-logo="espn-hd.png" group-title="Español",ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
+
+#EXTINF:-1,ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id="Total_ESPN 2" tvg-name="ESPN_2" tvg-logo="espn-2.png" group-title="Español",ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id="Total_ESPN 3 HD" tvg-name="ESPN_3_HD" tvg-logo="espn-3-hd.png" group-title="Español",ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
+
+#EXTINF:0,SPORTSNET 360 HD
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+#EXTINF:0,beIN SPORTS HD
+rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450
+
+#EXTINF:-1,beIN USA
+rtmp://cdn.cast-tv.us/stream/ playpath=z00031.stream swfUrl=http://cast-tv.us/player/player.swf  live=1 pageUrl=http://cast-tv.us/test1000.php?n=z00030      token=#ed%h0#w@1
