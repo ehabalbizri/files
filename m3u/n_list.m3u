@@ -1,0 +1,41 @@
+#EXTINF:-1,News 12 Long Island
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000 playpath=fs-b4e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b4e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LI live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Traffic and Weather Long Island
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-aee3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-aee3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Brooklyn
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000 playpath=fs-ace3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-ace3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=BK live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Traffic and Weather Brooklyn
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000 playpath=fs-afe3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-afe3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=NYTW live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Bronx
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000 playpath=fs-b5e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b5e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=BX live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Traffic and Weather Bronx
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000 playpath=fs-afe3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-afe3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=NYTW live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Westchester County
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000 playpath=fs-bce3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-bce3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=WC live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Traffic and Weather Westchester County
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000 playpath=fs-b8e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b8e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=WCTW live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 NJ
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-b9e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b9e3010000000000 pageURL=http://www.news12.com/player/flowplayer/live_player.html?region=NJ live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Traffic and Weather NJ
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000 playpath=fs-b3e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b3e3010000000000 pageURL=http://www.news12.com/player/flowplayer/live_player.html?region=NJ live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 CT
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000 playpath=fs-bbe3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-bbe3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=CT live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Traffic and Weather CT
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000 playpath=fs-b6e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b6e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=CTTW live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Hudson Valley
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000 playpath=fs-bae3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-bae3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=HV live=true swfVfy=true timeout=10
+
+#EXTINF:-1,News 12 Traffic and Weather Hudson Valley
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000 playpath=fs-b8e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b8e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=HVTW live=true swfVfy=true timeout=10
