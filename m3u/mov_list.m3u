@@ -1,6 +1,3 @@
-#EXTINF:-1,New12 Broklyn
-rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000 playpath=fs-ace3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-ace3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=BK live=true swfVfy=true timeout=10
-
 #EXTINF:-1,MBC 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
 
