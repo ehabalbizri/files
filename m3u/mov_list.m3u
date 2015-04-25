@@ -10,7 +10,7 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
-#EXTINF:-1,Fox Movies
+#EXTINF:-1,Fox Movies (may not work)
 http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
 
 #EXTINF:0,Star MOVIE HD
@@ -39,30 +39,6 @@ http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?
 
 #EXTINF:-1 tvg-id="Total_Cinecanal HD" tvg-name="Cinecanal_HD" tvg-logo="cinecanal-hd.png" group-title="Español",Cinecanal HD
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE05.m3u8?
-
-#EXTINF:-1 tvg-id="Total_Pink Action 1" tvg-name="Pink_Action_1" tvg-logo="pinkaction.png" group-title="Ingles",Pink Action 1
-http://str108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/balkansatnet.m3u8
-
-#EXTINF:-1 tvg-id="Total_Pink Action 2" tvg-name="Pink_Action_2" tvg-logo="pinkaction2.png" group-title="Ingles",Pink Action 2
-http://str108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/balkansatnet.m3u8
-
-#EXTINF:-1 tvg-id="Total_Pink Action 3" tvg-name="Pink_Action_3" tvg-logo="pinkaction3.png" group-title="Ingles",Pink Action 3
-http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/balkansatnet.m3u8
-
-#EXTINF:-1 tvg-id="Total_Pink Horror" tvg-name="Pink_Horror" tvg-logo="pinkHorror.png" group-title="Ingles",Pink Horror
-http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/balkansatnet.m3u8
-
-#EXTINF:-1 tvg-id="Total_Pink Movies 1" tvg-name="Pink_Movies_1" tvg-logo="pink-movies-1.png" group-title="Ingles",Pink Movies 1
-http://str108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/balkansatnet.m3u8
-
-#EXTINF:-1 tvg-id="Total_Pink Movies 2" tvg-name="Pink_Movies_2" tvg-logo="pink-movies-2.png" group-title="Ingles",Pink Movies 2
-http://str108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/balkansatnet.m3u8
-
-#EXTINF:-1 tvg-id="Total_Pink Movies 3" tvg-name="Pink_Movies_3" tvg-logo="pink-movies-3.png" group-title="Ingles",Pink Movies 3
-http://str108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/balkansatnet.m3u8
-
-#EXTINF:-1,TRUE MOVIES 1
-http://212.70.155.243:40665/udp/237.100.0.177:4000
 
 #EXTINF:-1,HBO 2
 rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
