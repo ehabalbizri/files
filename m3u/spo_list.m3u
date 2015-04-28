@@ -1,0 +1,137 @@
+#EXTINF:-1,beIN 1
+rtmp://180.250.29.12:1935/jhos/beib1_5
+
+#EXTINF:-1,beIN 2
+rtmp://180.250.29.12:1935/jhos/beib2_5
+
+#EXTINF:-1,beIN 3
+rtmp://180.250.29.12:1935/jhos/beib3_5
+
+#EXTINF:0,beIN USA
+rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450
+
+#EXTINF:-1,beIN USA (backup)
+rtmp://cdn.cast-tv.us/stream/ playpath=z00031.stream swfUrl=http://cast-tv.us/player/player.swf  live=1 pageUrl=http://cast-tv.us/test1000.php?n=z00030      token=#ed%h0#w@1
+
+#EXTINF:-1,MBC SPORT HD 1
+http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8
+
+#EXTINF:-1,MBC SPORT HD 3
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8
+
+#EXTINF:-1,AD Sports 1 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
+
+#EXTINF:-1,AD Sports 2 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
+
+#EXTINF:-1,Dubai Sports 3
+http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
+
+#EXTINF:-1,Dubai Racing
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
+
+#EXTINF:-1,KAS 
+http://137.135.64.32:1935/kas/kas/gmswf.m3u8
+
+#EXTINF:0,Bahrain Sports
+rtmp://alayam.netromedia.net/btv3/btv3
+
+#EXTINF:0,Eurosport 1
+http://185.38.12.20:8088/eurosport/
+
+#EXTINF:0,Eurosport 2
+http://185.38.12.20:8088/eurosport2/
+
+#EXTINF:0,ARENASPORT 1
+http://89.35.222.169:20000/ipvt_001
+
+#EXTINF:0,ARENASPORT 2
+http://89.35.222.169:20000/ipvt_002
+
+#EXTINF:0,RDS HD
+http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8
+
+#EXTINF:0,RDS 2 HD
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
+
+#EXTINF:0,CNOPT (Russia)
+http://185.38.12.20:8088/sport/
+
+#EXTINF:0,CNOPT 1 (Russia)
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+
+#EXTINF:0,Football (Russia)
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+
+#EXTINF:-1,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1,ESPN HD (backup)
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
+
+#EXTINF:0,ESPN HD (backup)
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id="Total_ESPN HD" tvg-name="ESPN_HD" tvg-logo="espn-hd.png" group-title="Español",ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
+
+#EXTINF:-1,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+
+#EXTINF:-1,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8? 
+
+#EXTINF:-1,ESPN 1 esp
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?
+
+#EXTINF:-1,ESPN 2 esp
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?
+
+#EXTINF:-1,ESPN 2 esp (backup)
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id="Total_ESPN 2" tvg-name="ESPN_2" tvg-logo="espn-2.png" group-title="Español",ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?
+
+#EXTINF:-1,ESPN 3 esp
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
+
+#EXTINF:-1 tvg-id="Total_ESPN 3 HD" tvg-name="ESPN_3_HD" tvg-logo="espn-3-hd.png" group-title="Español",ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
+
+#EXTINF:-1,Fox Sport en
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+
+#EXTINF:-1,Fox Sport News
+http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Fox Sports 1 esp
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?
+
+#EXTINF:-1,Fox Sports 2 esp
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
+
+#EXTINF:-1,TSN 1
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+
+#EXTINF:0,TSN 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+
+#EXTINF:0,TSN 3
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+
+#EXTINF:0,TSN 4
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+
+#EXTINF:0,TSN 5
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+
+#EXTINF:0,Sports Net 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+#EXTINF:-1,NBC Sports Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1,NBC Sports Network
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
