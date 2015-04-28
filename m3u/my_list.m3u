@@ -46,11 +46,38 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch4.sdp
 #EXTINF:-1,KTV Plus
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
 
+#EXTINF:0,Funoon HD
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
+
+#EXTINF:0,Alwatan
+http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
+
+#EXTINF:0,Alwatan Plus
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
+
 #EXTINF:-1,Fatafeat
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 
+#EXTINF:-1,Rotana Music
+http://185.56.30.123:8082/TV6012
+
+#EXTINF:-1,Rotana Cinema
+http://185.56.30.123:8082/TV6013
+
+#EXTINF:-1,Rotana Classic
+http://185.56.30.123:8082/TV6015
+
+#EXTINF:-1,Rotana Khaligi
+http://185.56.30.123:8082/TV6017
+
+#EXTINF:-1,Cairo Drama
+rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
+
 #EXTINF:-1,Cairo Cinema
 rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cd&width=600&height=400 
+
+#EXTINF:-1,MBC Drama
+http://151.80.141.145/hls/mbc_drama.m3u8
 
 #EXTINF:-1,MBC 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
@@ -66,6 +93,12 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
 #EXTINF:-1,MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+#EXTINF:-1,MBC BOLLYWOOD
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+#EXTINF:-1,FOX AR
+http://185.56.30.123:8082/TV6010
 
 #EXTINF:-1,Fox Movies (may not work)
 http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
@@ -253,6 +286,12 @@ http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.
 #EXTINF:0,RDS 2 HD
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
 
+#EXTINF:0,Eurosport 1
+http://185.38.12.20:8088/eurosport/
+
+#EXTINF:0,Eurosport 2
+http://185.38.12.20:8088/eurosport2/
+
 #EXTINF:0,ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
 
@@ -271,8 +310,8 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?
 #EXTINF:0,SPORTSNET 360 HD
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
-#EXTINF:0,beIN SPORTS HD
+#EXTINF:0,beIN USA
 rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450
 
-#EXTINF:-1,beIN USA
+#EXTINF:-1,beIN USA (backup)
 rtmp://cdn.cast-tv.us/stream/ playpath=z00031.stream swfUrl=http://cast-tv.us/player/player.swf  live=1 pageUrl=http://cast-tv.us/test1000.php?n=z00030      token=#ed%h0#w@1
