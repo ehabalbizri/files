@@ -19,32 +19,11 @@ rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
 #EXTINF:-1,Abu Dhabi Drama
 rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
 
-#EXTINF:-1,Dubai
-http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
-
-#EXTINF:-1,Sama Dubai
-http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/anis_sat.m3u8
-
-#EXTINF:-1,Noor Dubai 
-http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/chunklist_b1396736.m3u8?www.ar.tviraq.net
-
 #EXTINF:-1,Al Sharjah
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 
 #EXTINF:-1,Kuwait
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
-
-#EXTINF:-1,KTV 2
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
-
-#EXTINF:-1,KTV Arabe
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
-
-#EXTINF:-1,KTV Ethraa
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch4.sdp
-
-#EXTINF:-1,KTV Plus
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
 
 #EXTINF:0,Funoon HD
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
@@ -57,18 +36,6 @@ http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 
 #EXTINF:-1,Fatafeat
 http://212.179.77.42/live/livestream3/gmswf.m3u8
-
-#EXTINF:-1,Rotana Music
-http://185.56.30.123:8082/TV6012
-
-#EXTINF:-1,Rotana Cinema
-http://185.56.30.123:8082/TV6013
-
-#EXTINF:-1,Rotana Classic
-http://185.56.30.123:8082/TV6015
-
-#EXTINF:-1,Rotana Khaligi
-http://185.56.30.123:8082/TV6017
 
 #EXTINF:-1,Cairo Drama
 rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
