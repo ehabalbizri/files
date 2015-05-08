@@ -130,6 +130,9 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Echorouk
 http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 
+#EXTINF:-1,Hanibal
+rtmp://web.iptv-planet.com:1937/live2 playpath=h swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=h&width=600&height=400
+
 #EXTINF:-1,Nessma
 rtmp://web.iptv-planet.com:1937/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=n&width=600&height=400
 
