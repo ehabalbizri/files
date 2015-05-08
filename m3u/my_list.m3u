@@ -61,9 +61,6 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://iptv-plan
 #EXTINF:-1,CBC
 rtmp://web.iptv-planet.com:1937/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc&width=600&height=400
 
-#EXTINF:-1,CBC Drama
-rtmp://web.iptv-planet.com:1937/live2 playpath=cbc_drama swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc_drama&width=600&height=400
-
 #EXTINF:-1,MBC 1
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 
