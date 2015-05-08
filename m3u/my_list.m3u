@@ -157,6 +157,9 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=t1 swfUrl=http://iptv-planet.com/
 #EXTINF:-1,Tunisia Nationale 1
 rtmp://web.iptv-planet.com:1937/live2 playpath=t2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t2&width=600&height=400 
 
+#EXTINF:-1,Cairo Cinema
+rtmp://web.iptv-planet.com:1937/live2 playpath=attounsiya swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=attounsiya&width=600&height=400 
+
 #EXTINF:-1,Al Sumaria 
 http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
 
