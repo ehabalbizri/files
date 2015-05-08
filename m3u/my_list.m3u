@@ -19,6 +19,18 @@ rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
 #EXTINF:-1,Abu Dhabi Drama
 rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
 
+#EXTINF:-1,Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+
+#EXTINF:-1,Dubai ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+
+#EXTINF:-1,Noor DubaiTV
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+
+#EXTINF:-1,Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
+
 #EXTINF:-1,Al Sharjah
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 
@@ -34,20 +46,23 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 #EXTINF:0,Alwatan Plus
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
 
-#EXTINF:-1,Fatafeat
-http://212.179.77.42/live/livestream3/gmswf.m3u8
-
 #EXTINF:-1,Cairo Drama
 rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
 
 #EXTINF:-1,Cairo Cinema
 rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cd&width=600&height=400 
 
+#EXTINF:-1,ART Aflam 1
+rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam1&width=600&height=400 
+
+#EXTINF:-1,ART Aflam 2
+rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam2&width=600&height=400 
+
 #EXTINF:-1,CBC
 rtmp://web.iptv-planet.com:1937/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc&width=600&height=400
 
-#EXTINF:-1,MBC Drama
-http://151.80.141.145/hls/mbc_drama.m3u8
+#EXTINF:-1,MBC 1
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 
 #EXTINF:-1,MBC 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
@@ -66,9 +81,6 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-
-#EXTINF:-1,FOX AR
-http://185.56.30.123:8082/TV6010
 
 #EXTINF:-1,Fox Movies (may not work)
 http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
@@ -136,8 +148,14 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=h swfUrl=http://iptv-planet.com/s
 #EXTINF:-1,Nessma
 rtmp://web.iptv-planet.com:1937/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=n&width=600&height=400
 
-#EXTINF:-1,2M 
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+#EXTINF:-1,Algeria 3
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_TVA3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_TVA3&width=600&height=400 
+
+#EXTINF:-1,Tunisia Nationale 1
+rtmp://web.iptv-planet.com:1937/live2 playpath=t1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t1&width=600&height=400 
+
+#EXTINF:-1,Tunisia Nationale 1
+rtmp://web.iptv-planet.com:1937/live2 playpath=t2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t2&width=600&height=400 
 
 #EXTINF:-1,Al Sumaria 
 http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
@@ -187,7 +205,7 @@ rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1,Maannews
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 
-#EXTINF:-1, Al-hurra Iraq
+#EXTINF:-1,Al-hurra Iraq
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
 #EXTINF:-1,Nabaa 
