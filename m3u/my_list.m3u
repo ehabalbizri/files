@@ -52,6 +52,9 @@ rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
 #EXTINF:-1,Cairo Cinema
 rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cd&width=600&height=400 
 
+#EXTINF:-1,Cima
+rtmp://web.iptv-planet.com:1937/live2 playpath=cima swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cima&width=600&height=400 
+
 #EXTINF:-1,ART Aflam 1
 rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam1&width=600&height=400 
 
