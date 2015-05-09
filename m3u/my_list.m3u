@@ -46,24 +46,6 @@ http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 #EXTINF:0,Alwatan Plus
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
 
-#EXTINF:-1,Cairo Drama
-rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
-
-#EXTINF:-1,Cairo Cinema
-rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cd&width=600&height=400 
-
-#EXTINF:-1,Cima
-rtmp://web.iptv-planet.com:1937/live2 playpath=cima swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cima&width=600&height=400 
-
-#EXTINF:-1,ART Aflam 1
-rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam1&width=600&height=400 
-
-#EXTINF:-1,ART Aflam 2
-rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam2&width=600&height=400 
-
-#EXTINF:-1,CBC
-rtmp://web.iptv-planet.com:1937/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc&width=600&height=400
-
 #EXTINF:-1,MBC 1
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 
@@ -90,6 +72,51 @@ http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
 
 #EXTINF:-1,LBC Europe
 rtmp://web.iptv-planet.com:1937/live2 playpath=lbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=lbc&width=600&height=400
+
+#EXTINF:-1,Cairo Drama
+rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
+
+#EXTINF:-1,Cairo Cinema
+rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cd&width=600&height=400 
+
+#EXTINF:-1,Cima
+rtmp://web.iptv-planet.com:1937/live2 playpath=cima swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cima&width=600&height=400 
+
+#EXTINF:-1,ART Aflam 1
+rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam1&width=600&height=400 
+
+#EXTINF:-1,ART Aflam 2
+rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam2&width=600&height=400 
+
+#EXTINF:-1,ART Hekayat 2
+rtmp://web.iptv-planet.com:1937/live2 playpath=artcinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artcinema&width=600&height=400 
+
+#EXTINF:-1,Panorama Comedy
+rtmp://web.iptv-planet.com:1937/live2 playpath=pf swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=pf&width=600&height=400 
+
+#EXTINF:-1,Rotana Cinema
+rtmp://web.iptv-planet.com:1937/live2 playpath=rc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=rc&width=600&height=400 
+
+#EXTINF:-1,Rotana Clip
+rtmp://web.iptv-planet.com:1937/live2 playpath=rcl swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=rcl&width=600&height=400 
+
+#EXTINF:-1,CBC
+rtmp://web.iptv-planet.com:1937/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc&width=600&height=400
+
+#EXTINF:-1,CBC Drama
+rtmp://web.iptv-planet.com:1937/live2 playpath=cbcd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cbcd&width=600&height=400 
+
+#EXTINF:-1,Nile Drama
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_niledrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_niledrama&width=600&height=400 
+
+#EXTINF:-1,Nile Comedy
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilecomedy swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilecomedy&width=600&height=400 
+
+#EXTINF:-1,Nile Cinema
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilecinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilecinema&width=600&height=400 
+
+#EXTINF:-1,Nile TV
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilefamily swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilefamily&width=600&height=400 
 
 #EXTINF:-1,Al Manar 
 http://38.96.148.199:1935/liveedge1/livestream_360p/chunklist_w993456205.m3u8
