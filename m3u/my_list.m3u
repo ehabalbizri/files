@@ -16,9 +16,6 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=iqraa swfUrl=http://iptv-planet.c
 #EXTINF:-1,Abu Dhabi
 rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
 
-#EXTINF:-1,Abu Dhabi Drama
-rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
-
 #EXTINF:-1,Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 
