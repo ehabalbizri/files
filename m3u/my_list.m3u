@@ -139,11 +139,11 @@ http://50.23.65.8/live/cbc_sofra_plus/index.m3u8
 #EXTINF:-1,Nile Drama
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_niledrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_niledrama&width=600&height=400 
 
-#EXTINF:-1,Nile Comedy
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilecomedy swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilecomedy&width=600&height=400 
+#EXTINF:0,nile_comedy
+http://50.23.65.8/live/nile_comedy/index.m3u8
 
-#EXTINF:-1,Nile Cinema
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilecinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilecinema&width=600&height=400 
+#EXTINF:0,nile_cinema
+http://50.23.65.8/live/nile_cinema/index.m3u8
 
 #EXTINF:-1,Nile TV
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilefamily swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilefamily&width=600&height=400 
@@ -177,6 +177,27 @@ http://50.23.65.8/live/al_kahera_wal_nas_plus/index.m3u8
 
 #EXTINF:0,Faraeen Channel
 http://50.23.65.8/live/faraeen_channel/index.m3u8
+
+#EXTINF:0,Egypt 1
+http://50.23.65.8/live/al_oula_egypt/index.m3u8
+
+#EXTINF:0,Egypt 2
+http://50.23.65.8/live/cbc_two/index.m3u8
+
+#EXTINF:0,Egypt 2 Plus
+http://50.23.65.8/live/cbc_two_plus/index.m3u8
+
+#EXTINF:0,Sada El Balad
+http://50.23.65.8/live/sada_el_balad/index.m3u8
+
+#EXTINF:0,Sada El Balad Plus
+http://50.23.65.8/live/sada_el_balad_plus/index.m3u8
+
+#EXTINF:0,Sada El Balad Drama
+http://50.23.65.8/live/sada_el_balad_drama/index.m3u8
+
+#EXTINF:0,Sada El Balad Drama Plus
+http://50.23.65.8/live/sada_el_balad_drama_plus/index.m3u8
 
 #EXTINF:-1,Al Manar 
 http://38.96.148.199:1935/liveedge1/livestream_360p/chunklist_w993456205.m3u8
