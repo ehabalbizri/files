@@ -1,177 +1,236 @@
 #EXTINF:-1,News 12 Long Island
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000 playpath=fs-b4e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b4e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LI live=true swfVfy=true timeout=10
-
 #EXTINF:-1,News 12 Traffic and Weather Long Island
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-aee3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-aee3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW live=true swfVfy=true timeout=10
 
+#EXTINF:-1, [COLOR yellow] --Islam--[/COLOR]
+
 #EXTINF:-1,Sunnah TV
 http://46.245.160.224/medine/medine/gmswf.m3u8
-
 #EXTINF:-1,Quran TV
 http://46.245.160.224/mekke/mekke/gmswf.m3u8
+#EXTINF:0,Time Quran
+http://50.23.65.8/live/time_quran/index.m3u8
+#EXTINF:0,Al Resalla
+http://50.23.65.8/live/al_resalla/index.m3u8
+#EXTINF:0,Al Majd
+http://50.23.65.8/live/al_majd/index.m3u8
 
-#EXTINF:-1,Abu Dhabi
-rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
+#EXTINF:-1, [COLOR green] --Gulf--[/COLOR]
 
+#EXTINF:0,Abu Dhabi
+http://50.23.65.8/live/abu_dhabi_sports/index.m3u8
 #EXTINF:-1,Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
-
 #EXTINF:-1,Dubai ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-
 #EXTINF:-1,Noor DubaiTV
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-
 #EXTINF:-1,Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
-
 #EXTINF:-1,Al Sharjah
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
-
 #EXTINF:-1,Kuwait
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
-
 #EXTINF:0,Funoon HD
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
 
-#EXTINF:0,Alwatan
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
+#EXTINF:-1, [COLOR blue] --MBC Group--[/COLOR]
 
-#EXTINF:0,Alwatan Plus
-http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
-
-#EXTINF:0,MBC
+#EXTINF:0,MBC 1
 http://50.23.65.8/live/mbc/index.m3u8
-
 #EXTINF:-1,MBC 2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
-
 #EXTINF:-1,MBC 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-
 #EXTINF:-1,MBC MAX 
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-
 #EXTINF:-1,MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
-#EXTINF:-1,Fox Movies (may not work)
-http://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream/gmswf.m3u8
+#EXTINF:-1, [COLOR black] --Sham--[/COLOR]
 
-#EXTINF:-1,LBC Europe
-rtmp://web.iptv-planet.com:1937/live2 playpath=lbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=lbc&width=600&height=400
+#EXTINF:-1,Al Manar 
+http://38.96.148.199:1935/liveedge1/livestream_360p/chunklist_w993456205.m3u8
+#EXTINF:-1,Al Kawthar
+http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
+
+#EXTINF:-1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1,Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
+#EXTINF:-1,Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
+#EXTINF:-1,Sama Syria 
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1,Syria Nour
+http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
+#EXTINF:-1,Syria Ikhbaria
+http://82.137.248.16:1935/Snews/SnewsLive3/BratuMarian.m3u8
+#EXTINF:0,Talaqie TV
+rtmp://82.137.248.20/Talaqie/TalaqieLive1
+#EXTINF:0,Halab Today TV
+rtmp://streaming.tootvs.com/8010/8010
+#EXTINF:0,Nour El-Sham
+rtmp://82.137.248.21/Nour/NourLive2
+
+#EXTINF:-1,Jordan
+rtmp://64.251.14.168/jorlive/jrtv
+#EXTINF:0,Jordan TV
+http://50.23.65.8/live/jordan_tv/index.m3u8
+
+#EXTINF:0,PBC Palestine
+rtmp://vstream2.hadara.ps/pbc/pbc_1
+#EXTINF:0,Al Quds
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1, [COLOR red] --Egypt--[/COLOR]
 
 #EXTINF:0,Dream TV
 http://50.23.65.8/live/dream2/index.m3u8
-
 #EXTINF:0,Dream TV +2
 http://50.23.65.8/live/dream1/index.m3u8
 
-#EXTINF:-1,Cairo Drama
-rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
-
-#EXTINF:-1,Cairo Cinema
-rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cd&width=600&height=400 
-
-#EXTINF:-1,Cima
-rtmp://web.iptv-planet.com:1937/live2 playpath=cima swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cima&width=600&height=400 
-
-#EXTINF:-1,ART Aflam 1
-rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam1&width=600&height=400 
-
-#EXTINF:-1,ART Aflam 2
-rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam2&width=600&height=400 
-
-#EXTINF:-1,ART Hekayat 2
-rtmp://web.iptv-planet.com:1937/live2 playpath=artcinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artcinema&width=600&height=400 
-
-#EXTINF:-1,Panorama Comedy
-rtmp://web.iptv-planet.com:1937/live2 playpath=pf swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=pf&width=600&height=400 
-
 #EXTINF:0,Rotana Classic
 http://50.23.65.8/live/rotana_classic/index.m3u8
-
 #EXTINF:0,Rotana Khalijiah
 http://50.23.65.8/live/rotana_khalijiah/index.m3u8
-
 #EXTINF:0,Rotana Khalijiah Plus
 http://50.23.65.8/live/rotana_khalijiah_plus/index.m3u8
-
 #EXTINF:0,Rotana Massriya
 http://50.23.65.8/live/rotana_massriya/index.m3u8
-
 #EXTINF:0,Rotana Massriya Plus
 http://50.23.65.8/live/rotana_massriya_plus/index.m3u8
-
 #EXTINF:0,Rotana Cinema
 http://50.23.65.8/live/rotana_cinema_plus/index.m3u8
+#EXTINF:0,Rotana Moussica
+http://50.23.65.8/live/rotana_moussica/index.m3u8
+#EXTINF:0,Rotana Clip
+http://50.23.65.8/live/rotana_clip/index.m3u8
 
-#EXTINF:-1,Rotana Clip
-rtmp://web.iptv-planet.com:1937/live2 playpath=rcl swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=rcl&width=600&height=400 
-
-#EXTINF:-1,CBC
-rtmp://web.iptv-planet.com:1937/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc&width=600&height=400
+#EXTINF:0,Al Nahar Al Youm
+http://50.23.65.8/live/al-nahar_plus2/index.m3u8
+#EXTINF:0,Al Nahar Drama
+http://50.23.65.8/live/al-nahar_drama/index.m3u8
 
 #EXTINF:0,CBC Drama
 http://50.23.65.8/live/cbc_drama/index.m3u8
-
 #EXTINF:0,CBC Drama Plus
 http://50.23.65.8/live/cbc_drama_plus/index.m3u8
-
 #EXTINF:0,CBC Plus
 http://50.23.65.8/live/cbc_plus/index.m3u8
-
 #EXTINF:0,CBC Extra
 http://50.23.65.8/live/cbc_extra/index.m3u8
-
 #EXTINF:0,CBC Extra Plus
 http://50.23.65.8/live/cbc_extra_plus/index.m3u8
-
 #EXTINF:0,CBC Sofra
 http://50.23.65.8/live/cbc_sofra/index.m3u8
-
 #EXTINF:0,CBC Sofra Plus
 http://50.23.65.8/live/cbc_sofra_plus/index.m3u8
-
-#EXTINF:-1,Nile Drama
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_niledrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_niledrama&width=600&height=400 
-
-#EXTINF:0,nile_comedy
-http://50.23.65.8/live/nile_comedy/index.m3u8
-
-#EXTINF:0,nile_cinema
-http://50.23.65.8/live/nile_cinema/index.m3u8
-
-#EXTINF:-1,Nile TV
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_nilefamily swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_nilefamily&width=600&height=400 
-
-#EXTINF:0,Set El Bait
-http://50.23.65.8/live/set_el_bait/index.m3u8
-
-#EXTINF:0,Set El Bait Plus
-http://50.23.65.8/live/set_el_bait_plus/index.m3u8
-
-#EXTINF:0,ON TV LIVE
-http://50.23.65.8/live/ontv_live/index.m3u8
-
-#EXTINF:0,ON TV LIVE PLUS
-http://50.23.65.8/live/ontv_live_plus/index.m3u8
 
 #EXTINF:0,El Mehwar Plus
 http://50.23.65.8/live/el_mehwar_plus/index.m3u8
 
-#EXTINF:0,Al Nahar Al Youm
-http://50.23.65.8/live/al-nahar_plus2/index.m3u8
+#EXTINF:0,Cairo Drama
+http://50.23.65.8/live/cairo_drama/index.m3u8
+#EXTINF:0,Cairo Drama Plus
+http://50.23.65.8/live/cairo_drama_plus/index.m3u8
+#EXTINF:0,Cairo Cinema
+http://50.23.65.8/live/cairo_cinema/index.m3u8
+#EXTINF:0,Cairo Cinema Plus
+http://50.23.65.8/live/cairo_cinema_plus/index.m3u8
+#EXTINF:0,Cairo Zaman
+http://50.23.65.8/live/cairo_zaman/index.m3u8
+#EXTINF:0,Cairo Zaman Plus
+http://50.23.65.8/live/cairo_zaman_plus/index.m3u8
 
-#EXTINF:0,Al Nahar Drama
-http://50.23.65.8/live/al-nahar_drama/index.m3u8
+#EXTINF:0,ON TV LIVE
+http://50.23.65.8/live/ontv_live/index.m3u8
+#EXTINF:0,ON TV LIVE PLUS
+http://50.23.65.8/live/ontv_live_plus/index.m3u8
+
+#EXTINF:0,Sada El Balad
+http://50.23.65.8/live/sada_el_balad/index.m3u8
+#EXTINF:0,Sada El Balad Plus
+http://50.23.65.8/live/sada_el_balad_plus/index.m3u8
+#EXTINF:0,Sada El Balad Drama
+http://50.23.65.8/live/sada_el_balad_drama/index.m3u8
+#EXTINF:0,Sada El Balad Drama Plus
+http://50.23.65.8/live/sada_el_balad_drama_plus/index.m3u8
+
+#EXTINF:0,Panorama Comedy
+http://50.23.65.8/live/panorama_comedy/index.m3u8
+#EXTINF:0,Panorama Comedy Plus
+http://50.23.65.8/live/panorama_comedy_plus/index.m3u8
+#EXTINF:0,Panorama Film
+http://50.23.65.8/live/panorama_film/index.m3u8
+#EXTINF:0,Panorama Film Plus
+http://50.23.65.8/live/panorama_film_plus/index.m3u8
+#EXTINF:0,Panorama Cinema Plus
+http://50.23.65.8/live/panorama_cinema_plus/index.m3u8
+#EXTINF:0,Panorama Drama
+http://50.23.65.8/live/panorama_cinema/index.m3u8
+#EXTINF:0,Panorama Drama 1
+http://50.23.65.8/live/panorama_drama_i/index.m3u8
+#EXTINF:0,Panorama Drama 2
+http://50.23.65.8/live/panorama_drama_ii/index.m3u8
+#EXTINF:0,Panorama Drama 1 Plus
+http://50.23.65.8/live/panorama_drama_i_plus/index.m3u8
+#EXTINF:0,Panorama Drama 2 Plus
+http://50.23.65.8/live/panorama_drama_ii_plus/index.m3u8
+
+#EXTINF:0,Nile Comedy
+http://50.23.65.8/live/nile_comedy/index.m3u8
+#EXTINF:0,Nile Comedy Plus
+http://50.23.65.8/live/nile_comedy_plus/index.m3u8
+#EXTINF:0,Nile Cinema
+http://50.23.65.8/live/nile_cinema/index.m3u8
+#EXTINF:0,Nile Cinema Plus
+http://50.23.65.8/live/nile_cinema_plus/index.m3u8
+#EXTINF:0,Nile Family
+http://50.23.65.8/live/nile_family/index.m3u8
+#EXTINF:0,Nile Family Plus
+http://50.23.65.8/live/nile_family_plus/index.m3u8
+#EXTINF:0,Nile Culture
+http://50.23.65.8/live/nile_culture/index.m3u8
+#EXTINF:0,Nile Culture Plus
+http://50.23.65.8/live/nile_culture_plus/index.m3u8
+#EXTINF:0,Nile Life
+http://50.23.65.8/live/nile_life/index.m3u8
+#EXTINF:0,Nile Life Plus
+http://50.23.65.8/live/nile_life_plus/index.m3u8
+#EXTINF:0,Nile News
+http://50.23.65.8/live/nile_news/index.m3u8
+#EXTINF:0,Nile News Plus
+http://50.23.65.8/live/nile_news_plus/index.m3u8
+
+#EXTINF:0,Time Hekayat 1
+http://50.23.65.8/live/time_ekhtarna_lak/index.m3u8
+#EXTINF:0,Time Hekayat 2
+http://50.23.65.8/live/time_drama/index.m3u8
+#EXTINF:0,Time Hekayat 2 Plus
+http://50.23.65.8/live/time_drama_plus/index.m3u8
+#EXTINF:0,Time Hakawi
+http://50.23.65.8/live/halawet_rooh/index.m3u8
+#EXTINF:0,Time Rewayat
+http://50.23.65.8/live/time_cinema_2_plus/index.m3u8
+#EXTINF:0,Time Rewayat Plus
+http://50.23.65.8/live/time_taxi_plus/index.m3u8
+#EXTINF:0,Time Mosalsalat
+http://50.23.65.8/live/time_turki/index.m3u8
+#EXTINF:0,Time Mosalsalat Plus
+http://50.23.65.8/live/time_turki_plus/index.m3u8
+#EXTINF:0,Time Drama
+http://50.23.65.8/live/time_comedy/index.m3u8
+#EXTINF:0,Time Drama Plus
+http://50.23.65.8/live/time_comedy_plus/index.m3u8
+#EXTINF:0,Time Ramadan
+http://50.23.65.8/live/time_action_plus/index.m3u8
 
 #EXTINF:0,Al Kahera Wal Nas 2
 http://50.23.65.8/live/al_kahera_wal_nas/index.m3u8
-
 #EXTINF:0,Al Kahera Wal Nas Plus
 http://50.23.65.8/live/al_kahera_wal_nas_plus/index.m3u8
 
@@ -180,98 +239,38 @@ http://50.23.65.8/live/faraeen_channel/index.m3u8
 
 #EXTINF:0,Egypt 1
 http://50.23.65.8/live/al_oula_egypt/index.m3u8
-
 #EXTINF:0,Egypt 2
 http://50.23.65.8/live/cbc_two/index.m3u8
-
 #EXTINF:0,Egypt 2 Plus
 http://50.23.65.8/live/cbc_two_plus/index.m3u8
 
-#EXTINF:0,Sada El Balad
-http://50.23.65.8/live/sada_el_balad/index.m3u8
+#EXTINF:0,Darbaka Aflam
+http://50.23.65.8/live/darbaka_aflam/index.m3u8
+#EXTINF:0,Darbaka Aflam Plus
+http://50.23.65.8/live/darbaka_aflam_plus/index.m3u8
+#EXTINF:0,Darbaka Cinema
+http://50.23.65.8/live/darbaka_cinema/index.m3u8
 
-#EXTINF:0,Sada El Balad Plus
-http://50.23.65.8/live/sada_el_balad_plus/index.m3u8
+#EXTINF:0,Set El Bait
+http://50.23.65.8/live/set_el_bait/index.m3u8
+#EXTINF:0,Set El Bait Plus
+http://50.23.65.8/live/set_el_bait_plus/index.m3u8
 
-#EXTINF:0,Sada El Balad Drama
-http://50.23.65.8/live/sada_el_balad_drama/index.m3u8
-
-#EXTINF:0,Sada El Balad Drama Plus
-http://50.23.65.8/live/sada_el_balad_drama_plus/index.m3u8
-
-#EXTINF:-1,Al Manar 
-http://38.96.148.199:1935/liveedge1/livestream_360p/chunklist_w993456205.m3u8
-
-#EXTINF:-1,Al Kawthar
-http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
-
-#EXTINF:-1,Syria
-http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-
-#EXTINF:-1,Syria Aloula
-http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
-
-#EXTINF:-1,Syria Drama
-http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
-
-#EXTINF:-1,Sama Syria 
-http://sama-tv.net:1935/live/samatv/playlist.m3u8
-
-#EXTINF:-1,Syria Nour
-http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
-
-#EXTINF:-1,Syria Ikhbaria
-http://82.137.248.16:1935/Snews/SnewsLive3/BratuMarian.m3u8
-
-#EXTINF:0,Talaqie TV
-rtmp://82.137.248.20/Talaqie/TalaqieLive1
-
-#EXTINF:0,Addounia TV
-rtmp://sama-tv.net/live/samatv
-
-#EXTINF:0,Halab Today TV
-rtmp://streaming.tootvs.com/8010/8010
-
-#EXTINF:0,Nour El-Sham
-rtmp://82.137.248.21/Nour/NourLive2
-
-#EXTINF:-1,Jordan
-rtmp://64.251.14.168/jorlive/jrtv
-
-#EXTINF:0,PBC Palestine
-rtmp://vstream2.hadara.ps/pbc/pbc_1
-
-#EXTINF:0,AQTV (Quds) 
-http://178.214.64.157/aqtv/imm/gmswf.m3u8
-
-#EXTINF:0,Al-Quds
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1, [COLOR Pink] --Other--[/COLOR]
 
 #EXTINF:-1,Al Youm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 
-#EXTINF:-1,Echorouk
-http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
+#EXTINF:0,Al Maghribia
+http://50.23.65.8/live/al_maghribia/index.m3u8
 
-#EXTINF:-1,Hanibal
-rtmp://web.iptv-planet.com:1937/live2 playpath=h swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=h&width=600&height=400
+#EXTINF:0,Al Sharqiya
+http://50.23.65.8/live/al_sharqiya/index.m3u8
 
-#EXTINF:-1,Nessma
-rtmp://web.iptv-planet.com:1937/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=n&width=600&height=400
-
-#EXTINF:-1,Algeria 3
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_TVA3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_TVA3&width=600&height=400 
-
-#EXTINF:-1,Tunisia Nationale 1
-rtmp://web.iptv-planet.com:1937/live2 playpath=t1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t1&width=600&height=400 
-
-#EXTINF:-1,Tunisia Nationale 1
-rtmp://web.iptv-planet.com:1937/live2 playpath=t2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t2&width=600&height=400 
-
-#EXTINF:-1,Albaghdadia
+#EXTINF:-1,Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 
-#EXTINF:-1,Albaghdadia 2
+#EXTINF:-1,Al Baghdadia 2
 http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 
 #EXTINF:-1,Baghdad TV
@@ -280,59 +279,39 @@ http://streamer1.hamuraabi.com:1935/baghdad/live/HasBahCa.m3u8
 #EXTINF:-1,Al Forat
 http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
 
+#EXTINF:-1, [COLOR Purple] --News--[/COLOR]
+
 #EXTINF:-1,Al Jazeera
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8
-
 #EXTINF:-1,Russia Alyoum
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_auto.smil/playlist.m3u8
-
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
 #EXTINF:-1,Sky news arabia 
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-
 #EXTINF:-1,DW Arabia (Germany)
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-
 #EXTINF:-1 ,TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
 #EXTINF:0,Al Mayadeen
 rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
-
-#EXTINF:-1,i24News AR
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
-
-#EXTINF:-1,Al Alam TV
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/alalam/ls_fiber/b_828.m3u8
-
-#EXTINF:0,ANN TV
-rtmp://ns8.indexforce.com/ann/ann
-
-#EXTINF:-1,Maannews
-http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
-
 #EXTINF:-1,Al-hurra Iraq
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
+#EXTINF:-1,i24News AR
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:0,ANN TV
+rtmp://ns8.indexforce.com/ann/ann
+#EXTINF:-1,Maannews
+http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 #EXTINF:-1,Nabaa 
 rtmp://31.14.40.238:1935/live/Nabaa
-
 #EXTINF:0,Wesal TV
 rtmp://109.123.123.82:1935/wesal/wesal1
-
 #EXTINF:-1,Aljazeera En
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_264.m3u8
-
 #EXTINF:-1,BBC World News
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
-
 #EXTINF:-1,Al Jazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-
-#EXTINF:-1,National Geographic
-rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
-
 #EXTINF:-1,NASA
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
