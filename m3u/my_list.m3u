@@ -35,7 +35,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
 #EXTINF:0,013.Funoon HD
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
 
-#EXTINF:-1,[COLOR blue][B]--MBC Group--[/COLOR][/B]
+#EXTINF:-1,[COLOR royalblue][B]--MBC Group--[/COLOR][/B]
 
 #EXTINF:0,014.MBC 1
 http://50.23.65.8/live/mbc/index.m3u8
