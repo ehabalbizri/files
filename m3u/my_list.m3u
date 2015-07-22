@@ -9,17 +9,9 @@ rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-
 http://46.245.160.224/medine/medine/gmswf.m3u8
 #EXTINF:-1,002.Quran TV
 http://46.245.160.224/mekke/mekke/gmswf.m3u8
-#EXTINF:0,003.Time Quran
-http://50.23.65.8/live/time_quran/index.m3u8
-#EXTINF:0,004.Al Resalla
-http://50.23.65.8/live/al_resalla/index.m3u8
-#EXTINF:0,005.Al Majd
-http://50.23.65.8/live/al_majd/index.m3u8
 
 #EXTINF:-1,[COLOR lime][B]--Gulf--[/COLOR][/B]
 
-#EXTINF:0,006.Abu Dhabi
-http://50.23.65.8/live/abu_dhabi_sports/index.m3u8
 #EXTINF:-1,007.Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1,008.Dubai ONE
@@ -37,10 +29,6 @@ http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanf
 
 #EXTINF:-1,[COLOR royalblue][B]--MBC Group--[/COLOR][/B]
 
-#EXTINF:0,014.MBC 1
-http://50.23.65.8/live/mbc/index.m3u8
-#EXTINF:-1,015.MBC 2
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,016.MBC 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,017.MBC MAX 
@@ -78,8 +66,6 @@ rtmp://82.137.248.21/Nour/NourLive2
 
 #EXTINF:-1,031.Jordan
 rtmp://64.251.14.168/jorlive/jrtv
-#EXTINF:0,032.Jordan TV
-http://50.23.65.8/live/jordan_tv/index.m3u8
 
 #EXTINF:0,033.PBC Palestine
 rtmp://vstream2.hadara.ps/pbc/pbc_1
@@ -88,184 +74,11 @@ http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m
 
 #EXTINF:-1,[COLOR red][B]--Egypt--[/COLOR][/B]
 
-#EXTINF:0,035.Dream TV
-http://50.23.65.8/live/dream2/index.m3u8
-#EXTINF:0,036.Dream TV +2
-http://50.23.65.8/live/dream1/index.m3u8
-
-#EXTINF:0,037.Rotana Classic
-http://50.23.65.8/live/rotana_classic/index.m3u8
-#EXTINF:0,038.Rotana Khalijiah
-http://50.23.65.8/live/rotana_khalijiah/index.m3u8
-#EXTINF:0,039.Rotana Khalijiah Plus
-http://50.23.65.8/live/rotana_khalijiah_plus/index.m3u8
-#EXTINF:0,040.Rotana Massriya
-http://50.23.65.8/live/rotana_massriya/index.m3u8
-#EXTINF:0,041.Rotana Massriya Plus
-http://50.23.65.8/live/rotana_massriya_plus/index.m3u8
-#EXTINF:0,042.Rotana Cinema
-http://50.23.65.8/live/rotana_cinema_plus/index.m3u8
-#EXTINF:0,043.Rotana Moussica
-http://50.23.65.8/live/rotana_moussica/index.m3u8
-#EXTINF:0,044.Rotana Clip
-http://50.23.65.8/live/rotana_clip/index.m3u8
-
-#EXTINF:0,045.Al Nahar Al Youm
-http://50.23.65.8/live/al-nahar_plus2/index.m3u8
-#EXTINF:0,046.Al Nahar Drama
-http://50.23.65.8/live/al-nahar_drama/index.m3u8
-
-#EXTINF:0,047.CBC Drama
-http://50.23.65.8/live/cbc_drama/index.m3u8
-#EXTINF:0,048.CBC Drama Plus
-http://50.23.65.8/live/cbc_drama_plus/index.m3u8
-#EXTINF:0,049.CBC Plus
-http://50.23.65.8/live/cbc_plus/index.m3u8
-#EXTINF:0,050.CBC Extra
-http://50.23.65.8/live/cbc_extra/index.m3u8
-#EXTINF:0,051.CBC Extra Plus
-http://50.23.65.8/live/cbc_extra_plus/index.m3u8
-#EXTINF:0,052.CBC Sofra
-http://50.23.65.8/live/cbc_sofra/index.m3u8
-#EXTINF:0,053.CBC Sofra Plus
-http://50.23.65.8/live/cbc_sofra_plus/index.m3u8
-
-#EXTINF:0,054.El Mehwar Plus
-http://50.23.65.8/live/el_mehwar_plus/index.m3u8
-
-#EXTINF:0,055.Cairo Drama
-http://50.23.65.8/live/cairo_drama/index.m3u8
-#EXTINF:0,056.Cairo Drama Plus
-http://50.23.65.8/live/cairo_drama_plus/index.m3u8
-#EXTINF:0,057.Cairo Cinema
-http://50.23.65.8/live/cairo_cinema/index.m3u8
-#EXTINF:0,058.Cairo Cinema Plus
-http://50.23.65.8/live/cairo_cinema_plus/index.m3u8
-#EXTINF:0,059.Cairo Zaman
-http://50.23.65.8/live/cairo_zaman/index.m3u8
-#EXTINF:0,060.Cairo Zaman Plus
-http://50.23.65.8/live/cairo_zaman_plus/index.m3u8
-
-#EXTINF:0,061.ON TV LIVE
-http://50.23.65.8/live/ontv_live/index.m3u8
-#EXTINF:0,062.ON TV LIVE PLUS
-http://50.23.65.8/live/ontv_live_plus/index.m3u8
-
-#EXTINF:0,063.Sada El Balad
-http://50.23.65.8/live/sada_el_balad/index.m3u8
-#EXTINF:0,064.Sada El Balad Plus
-http://50.23.65.8/live/sada_el_balad_plus/index.m3u8
-#EXTINF:0,065.Sada El Balad Drama
-http://50.23.65.8/live/sada_el_balad_drama/index.m3u8
-#EXTINF:0,066.Sada El Balad Drama Plus
-http://50.23.65.8/live/sada_el_balad_drama_plus/index.m3u8
-
-#EXTINF:0,067.Panorama Comedy
-http://50.23.65.8/live/panorama_comedy/index.m3u8
-#EXTINF:0,068.Panorama Comedy Plus
-http://50.23.65.8/live/panorama_comedy_plus/index.m3u8
-#EXTINF:0,069.Panorama Film
-http://50.23.65.8/live/panorama_film/index.m3u8
-#EXTINF:0,070.Panorama Film Plus
-http://50.23.65.8/live/panorama_film_plus/index.m3u8
-#EXTINF:0,071.Panorama Cinema Plus
-http://50.23.65.8/live/panorama_cinema_plus/index.m3u8
-#EXTINF:0,072.Panorama Drama
-http://50.23.65.8/live/panorama_cinema/index.m3u8
-#EXTINF:0,073.Panorama Drama 1
-http://50.23.65.8/live/panorama_drama_i/index.m3u8
-#EXTINF:0,074.Panorama Drama 2
-http://50.23.65.8/live/panorama_drama_ii/index.m3u8
-#EXTINF:0,075.Panorama Drama 1 Plus
-http://50.23.65.8/live/panorama_drama_i_plus/index.m3u8
-#EXTINF:0,076.Panorama Drama 2 Plus
-http://50.23.65.8/live/panorama_drama_ii_plus/index.m3u8
-
-#EXTINF:0,077.Nile Comedy
-http://50.23.65.8/live/nile_comedy/index.m3u8
-#EXTINF:0,078.Nile Comedy Plus
-http://50.23.65.8/live/nile_comedy_plus/index.m3u8
-#EXTINF:0,079.Nile Cinema
-http://50.23.65.8/live/nile_cinema/index.m3u8
-#EXTINF:0,080.Nile Cinema Plus
-http://50.23.65.8/live/nile_cinema_plus/index.m3u8
-#EXTINF:0,081.Nile Family
-http://50.23.65.8/live/nile_family/index.m3u8
-#EXTINF:0,082.Nile Family Plus
-http://50.23.65.8/live/nile_family_plus/index.m3u8
-#EXTINF:0,083.Nile Culture
-http://50.23.65.8/live/nile_culture/index.m3u8
-#EXTINF:0,084.Nile Culture Plus
-http://50.23.65.8/live/nile_culture_plus/index.m3u8
-#EXTINF:0,085.Nile Life
-http://50.23.65.8/live/nile_life/index.m3u8
-#EXTINF:0,086.Nile Life Plus
-http://50.23.65.8/live/nile_life_plus/index.m3u8
-#EXTINF:0,087.Nile News
-http://50.23.65.8/live/nile_news/index.m3u8
-#EXTINF:0,088.Nile News Plus
-http://50.23.65.8/live/nile_news_plus/index.m3u8
-
-#EXTINF:0,089.Time Hekayat 1
-http://50.23.65.8/live/time_ekhtarna_lak/index.m3u8
-#EXTINF:0,090.Time Hekayat 2
-http://50.23.65.8/live/time_drama/index.m3u8
-#EXTINF:0,091.Time Hekayat 2 Plus
-http://50.23.65.8/live/time_drama_plus/index.m3u8
-#EXTINF:0,092.Time Hakawi
-http://50.23.65.8/live/halawet_rooh/index.m3u8
-#EXTINF:0,093.Time Rewayat
-http://50.23.65.8/live/time_cinema_2_plus/index.m3u8
-#EXTINF:0,094.Time Rewayat Plus
-http://50.23.65.8/live/time_taxi_plus/index.m3u8
-#EXTINF:0,095.Time Mosalsalat
-http://50.23.65.8/live/time_turki/index.m3u8
-#EXTINF:0,096.Time Mosalsalat Plus
-http://50.23.65.8/live/time_turki_plus/index.m3u8
-#EXTINF:0,097.Time Drama
-http://50.23.65.8/live/time_comedy/index.m3u8
-#EXTINF:0,098.Time Drama Plus
-http://50.23.65.8/live/time_comedy_plus/index.m3u8
-#EXTINF:0,099.Time Ramadan
-http://50.23.65.8/live/time_action_plus/index.m3u8
-
-#EXTINF:0,100.Al Kahera Wal Nas 2
-http://50.23.65.8/live/al_kahera_wal_nas/index.m3u8
-#EXTINF:0,101.Al Kahera Wal Nas Plus
-http://50.23.65.8/live/al_kahera_wal_nas_plus/index.m3u8
-
-#EXTINF:0,102.Faraeen Channel
-http://50.23.65.8/live/faraeen_channel/index.m3u8
-
-#EXTINF:0,103.Egypt 1
-http://50.23.65.8/live/al_oula_egypt/index.m3u8
-#EXTINF:0,104.Egypt 2
-http://50.23.65.8/live/cbc_two/index.m3u8
-#EXTINF:0,105.Egypt 2 Plus
-http://50.23.65.8/live/cbc_two_plus/index.m3u8
-
-#EXTINF:0,106.Darbaka Aflam
-http://50.23.65.8/live/darbaka_aflam/index.m3u8
-#EXTINF:0,107.Darbaka Aflam Plus
-http://50.23.65.8/live/darbaka_aflam_plus/index.m3u8
-#EXTINF:0,108.Darbaka Cinema
-http://50.23.65.8/live/darbaka_cinema/index.m3u8
-
-#EXTINF:0,109.Set El Bait
-http://50.23.65.8/live/set_el_bait/index.m3u8
-#EXTINF:0,110.Set El Bait Plus
-http://50.23.65.8/live/set_el_bait_plus/index.m3u8
 
 #EXTINF:-1,[COLOR orange][B]--Other--[/COLOR][/B]
 
 #EXTINF:-1,111.Al Youm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-
-#EXTINF:0,112.Al Maghribia
-http://50.23.65.8/live/al_maghribia/index.m3u8
-
-#EXTINF:0,113.Al Sharqiya
-http://50.23.65.8/live/al_sharqiya/index.m3u8
 
 #EXTINF:-1,114.Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
@@ -283,8 +96,6 @@ http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
 
 #EXTINF:-1,118.Al Jazeera
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8
-#EXTINF:-1,119.Russia Alyoum
-http://odna.octoshape.net/f3f5m2v4/cds/ch3_auto.smil/playlist.m3u8
 #EXTINF:-1,120.BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1,121.Sky news arabia 
@@ -295,14 +106,10 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:0,124.Al Mayadeen
 rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
-#EXTINF:-1,125.Al-hurra Iraq
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,126.i24News AR
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:0,127.ANN TV
 rtmp://ns8.indexforce.com/ann/ann
-#EXTINF:-1,128.Maannews
-http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 #EXTINF:-1,129.Nabaa 
 rtmp://31.14.40.238:1935/live/Nabaa
 #EXTINF:0,130.Wesal TV
