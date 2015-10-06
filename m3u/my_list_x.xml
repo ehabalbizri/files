@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<stream>
+
+<item>
+<title>[COLOR lime]****[COLOR cyan] CREATED ON [COLOR yellow]10-06-2015 [COLOR lime]****[/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>News 12 Long Island</title>
+<link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000 playpath=fs-b4e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b4e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LI live=true swfVfy=true timeout=10</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>News 12 Traffic and Weather Long Island</title>
+<link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-aee3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-aee3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW live=true swfVfy=true timeout=10</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>001.Sunnah TV</title>
+<link>http://46.245.160.224/medine/medine/gmswf.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>002.Quran TV</title>
+<link>http://46.245.160.224/mekke/mekke/gmswf.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Abu Dabi Drama</title>
+<link>http://streamer1.cdniptv.com:7070/hls/mal-abu-dhabi-drama.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Abu Dabi Emirate</title>
+<link>http://streamer1.cdniptv.com:7070/hls/mal-abu-dhabi-emarat.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>007.Dubai TV</title>
+<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>008.Dubai ONE</title>
+<link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>009.Noor DubaiTV</title>
+<link>http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>010.Sama Dubai</title>
+<link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Dubai Drama</title>
+<link>http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Dubai zaman</title>
+<link>http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>011.Al Sharjah</title>
+<link>rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>012.Kuwait</title>
+<link>rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>013.Funoon HD</title>
+<link>http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KSA 1 TV</title>
+<link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>016.MBC 4</title>
+<link>http://63.237.48.23/ios/MBC_4/MBC_4.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>017.MBC MAX</title>
+<link>http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>018.MBC Action</title>
+<link>http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>019.MBC BOLLYWOOD</title>
+<link>http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MTV Lebanon</title>
+<link>http://streamer1.cdniptv.com:7070/hls/mtv-lebanon.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AL Jadeed</title>
+<link>http://streamer1.cdniptv.com:7070/hls/mal-aljadeed.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>OTV Lebanon</title>
+<link>http://streamer1.cdniptv.com:7070/hls/otv-lebanon.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>020.Al Manar</title>
+<link>http://38.96.148.199:1935/liveedge1/livestream_360p/chunklist_w993456205.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>021.Al Kawthar</title>
+<link>http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>022.Syria</title>
+<link>http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>023.Syria Aloula</title>
+<link>http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>024.Syria Drama</title>
+<link>http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>025.Sama Syria</title>
+<link>http://sama-tv.net:1935/live/samatv/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>026.Syria Nour</title>
+<link>http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>027.Syria Ikhbaria</title>
+<link>http://82.137.248.16:1935/Snews/SnewsLive3/BratuMarian.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>028.Talaqie TV</title>
+<link>rtmp://82.137.248.20/Talaqie/TalaqieLive1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>029.Halab Today TV</title>
+<link>rtmp://streaming.tootvs.com/8010/8010</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>030.Nour El-Sham</title>
+<link>rtmp://82.137.248.21/Nour/NourLive2</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>031.Jordan</title>
+<link>rtmp://64.251.14.168/jorlive/jrtv</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>033.PBC Palestine</title>
+<link>rtmp://vstream2.hadara.ps/pbc/pbc_1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>034.Al Quds</title>
+<link>http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FATAFEAT</title>
+<link>http://streamer1.cdniptv.com:7070/hls/fatafeat.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>CBC SOFRA</title>
+<link>http://streamer1.cdniptv.com:7070/hls/cbc-sofra.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Al-Nahar TV</title>
+<link>http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Al-Nahar Al-youm</title>
+<link>http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Al-Nahar Drama</title>
+<link>http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ROTANA Cinema</title>
+<link>http://streamer1.cdniptv.com:7070/hls/rotana-cinema-ksa.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ART Cinema HD</title>
+<link>http://streamer1.cdniptv.com:7070/hls/mal-art-cinema.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>111.Al Youm</title>
+<link>http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>114.Al Baghdadia</title>
+<link>http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>115.Al Baghdadia 2</title>
+<link>http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>117.Al Forat</title>
+<link>http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>118.Al Jazeera</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AL-Arabiya AL-Hadath</title>
+<link>http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>120.BBC Arabia</title>
+<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>121.Sky news arabia</title>
+<link>http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>122.DW Arabia (Germany)</title>
+<link>http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>RT Today Arabic</title>
+<link>http://rt-a.akamaihd.net/ch_03@325607/320p.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>123.TRT Arabic</title>
+<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>124.Al Mayadeen</title>
+<link>rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>126.i24News AR</title>
+<link>http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>127.ANN TV</title>
+<link>rtmp://ns8.indexforce.com/ann/ann</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>129.Nabaa</title>
+<link>rtmp://31.14.40.238:1935/live/Nabaa</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>130.Wesal TV</title>
+<link>rtmp://109.123.123.82:1935/wesal/wesal1</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>131.Aljazeera En</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_264.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>132.BBC World News</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>133.Al Jazeera Doc</title>
+<link>http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+</stream>
+
+
+
