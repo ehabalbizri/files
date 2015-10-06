@@ -2,21 +2,14 @@
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000 playpath=fs-b4e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b4e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LI live=true swfVfy=true timeout=10
 #EXTINF:-1,News 12 Traffic and Weather Long Island
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-aee3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-aee3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW live=true swfVfy=true timeout=10
-
-#EXTINF:-1,[COLOR yellow][B]--Islam--[/COLOR][/B]
-
 #EXTINF:-1,001.Sunnah TV
 http://46.245.160.224/medine/medine/gmswf.m3u8
 #EXTINF:-1,002.Quran TV
 http://46.245.160.224/mekke/mekke/gmswf.m3u8
-
-#EXTINF:-1,[COLOR lime][B]--Gulf--[/COLOR][/B]
-
 #EXTINF:-1,Abu Dabi Drama
 http://streamer1.cdniptv.com:7070/hls/mal-abu-dhabi-drama.m3u8
 #EXTINF:-1,Abu Dabi Emirate
 http://streamer1.cdniptv.com:7070/hls/mal-abu-dhabi-emarat.m3u8
-
 #EXTINF:-1,007.Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1,008.Dubai ONE
@@ -25,24 +18,18 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1,010.Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
-
 #EXTINF:0,Dubai Drama
 http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 #EXTINF:0,Dubai zaman
 http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-
 #EXTINF:-1,011.Al Sharjah
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 #EXTINF:-1,012.Kuwait
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
 #EXTINF:0,013.Funoon HD
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonhigh.m3u8
-
 #EXTINF:0,KSA 1 TV
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8
-
-#EXTINF:-1,[COLOR royalblue][B]--MBC Group--[/COLOR][/B]
-
 #EXTINF:-1,016.MBC 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,017.MBC MAX 
@@ -51,21 +38,16 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,019.MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-
-#EXTINF:-1,[COLOR magenta][B]--Sham--[/COLOR][/B]
-
 #EXTINF:-1,MTV Lebanon
 http://streamer1.cdniptv.com:7070/hls/mtv-lebanon.m3u8
 #EXTINF:-1,AL Jadeed
 http://streamer1.cdniptv.com:7070/hls/mal-aljadeed.m3u8
 #EXTINF:-1,OTV Lebanon
 http://streamer1.cdniptv.com:7070/hls/otv-lebanon.m3u8
-
 #EXTINF:-1,020.Al Manar 
 http://38.96.148.199:1935/liveedge1/livestream_360p/chunklist_w993456205.m3u8
 #EXTINF:-1,021.Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
-
 #EXTINF:-1,022.Syria
 http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
 #EXTINF:-1,023.Syria Aloula
@@ -84,17 +66,12 @@ rtmp://82.137.248.20/Talaqie/TalaqieLive1
 rtmp://streaming.tootvs.com/8010/8010
 #EXTINF:0,030.Nour El-Sham
 rtmp://82.137.248.21/Nour/NourLive2
-
 #EXTINF:-1,031.Jordan
 rtmp://64.251.14.168/jorlive/jrtv
-
 #EXTINF:0,033.PBC Palestine
 rtmp://vstream2.hadara.ps/pbc/pbc_1
 #EXTINF:0,034.Al Quds
 http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1,[COLOR red][B]--Egypt--[/COLOR][/B]
-
 #EXTINF:-1,FATAFEAT
 http://streamer1.cdniptv.com:7070/hls/fatafeat.m3u8
 #EXTINF:-1,CBC SOFRA
@@ -109,24 +86,14 @@ http://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream/p
 http://streamer1.cdniptv.com:7070/hls/rotana-cinema-ksa.m3u8
 #EXTINF:-1,ART Cinema HD
 http://streamer1.cdniptv.com:7070/hls/mal-art-cinema.m3u8
-
-
-#EXTINF:-1,[COLOR orange][B]--Other--[/COLOR][/B]
-
 #EXTINF:-1,111.Al Youm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-
 #EXTINF:-1,114.Al Baghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
-
 #EXTINF:-1,115.Al Baghdadia 2
 http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-
 #EXTINF:-1,117.Al Forat
 http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
-
-#EXTINF:-1,[COLOR teal][B]--News--[/COLOR][/B]
-
 #EXTINF:-1,118.Al Jazeera
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8
 #EXTINF:-1, AL-Arabiya AL-Hadath
