@@ -5,16 +5,12 @@ rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000 playpath=fs-
 #EXTINF:-1,02.News 12 Traffic and Weather Long Island
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-aee3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-aee3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW live=true swfVfy=true timeout=10
 
-#EXTINF:-1,
-
 #EXTINF:-1,[COLOR yellow][B]Islam[/COLOR][/B]
 
 #EXTINF:-1,03.Sunnah TV
 http://46.245.160.224/medine/medine/gmswf.m3u8
 #EXTINF:-1,04.Quran TV
 http://46.245.160.224/mekke/mekke/gmswf.m3u8
-
-#EXTINF:-1,
 
 #EXTINF:-1,[COLOR lime][B]Gulf[/COLOR][/B]
 
@@ -45,8 +41,6 @@ http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanf
 #EXTINF:0,17.KSA 1
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8
 
-#EXTINF:-1,
-
 #EXTINF:-1,[COLOR royalblue][B]MBC Group[/COLOR][/B]
 
 #EXTINF:-1,18.MBC 4
@@ -57,8 +51,6 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,21.MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-
-#EXTINF:-1,
 
 #EXTINF:-1,[COLOR magenta][B]Lebanon[/COLOR][/B]
 
@@ -74,8 +66,6 @@ rtmp://livestreaming.itworkscdn.net/alaanlive playpath=alaantv swfUrl=http://itw
 http://38.96.148.199:1935/liveedge1/livestream_360p/chunklist_w993456205.m3u8
 #EXTINF:-1,27.Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
-
-#EXTINF:-1,
 
 #EXTINF:-1,[COLOR teal][B]Syria[/COLOR][/B]
 
@@ -98,8 +88,6 @@ rtmp://streaming.tootvs.com/8010/8010
 #EXTINF:0,36.Nour El-Sham
 rtmp://82.137.248.21/Nour/NourLive2
 
-#EXTINF:-1,
-
 #EXTINF:-1,[COLOR orangered][B]Palestine[/COLOR][/B]
 
 #EXTINF:0,37.PBC Palestine
@@ -110,8 +98,6 @@ http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m
 rtmp://217.21.0.14/maan//mp4:maan_1
 #EXTINF:-1,40.Jordan
 rtmp://64.251.14.168/jorlive/jrtv
-
-#EXTINF:-1,
 
 #EXTINF:-1,[COLOR red][B]Egypt[/COLOR][/B]
 
@@ -130,8 +116,6 @@ http://streamer1.cdniptv.com:7070/hls/rotana-cinema-ksa.m3u8
 #EXTINF:-1,47.ART Cinema HD
 http://streamer1.cdniptv.com:7070/hls/mal-art-cinema.m3u8
 
-#EXTINF:-1,
-
 #EXTINF:-1,[COLOR forestgreen][B]Iraq[/COLOR][/B]
 
 #EXTINF:-1,48.Al Youm
@@ -142,8 +126,6 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 #EXTINF:-1,51.Al Forat
 http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
-
-#EXTINF:-1,
 
 #EXTINF:-1,[COLOR mediumslateblue][B]News[/COLOR][/B]
 
@@ -179,8 +161,6 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,67.NASA
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
-
-#EXTINF:-1,
 
 #EXTINF:-1,[COLOR purple][B]Sports[/COLOR][/B]
 
