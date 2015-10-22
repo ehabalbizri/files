@@ -142,5 +142,5 @@ http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3
 
 #EXTINF:-1,[COLOR purple][B]Sports[/COLOR][/B]
 
-#EXTINF:0,01.beIN USA
+#EXTINF:0,beIN USA
 rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live playpath=beinsport_eng_4 swfurl=http://sportsinfonet.info/player/Player.swf live=true timeout=15 pageurl=http://sportsinfonet.info/beinsports.php?n=beinsport_eng_4&vw=650&vh=450
