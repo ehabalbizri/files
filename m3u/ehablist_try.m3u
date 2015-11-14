@@ -6,7 +6,7 @@ rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-
 http://46.245.160.224/medine/medine/gmswf.m3u8
 #EXTINF:-1,Quran TV
 http://46.245.160.224/mekke/mekke/gmswf.m3u8
-#EXTINF:-1,Dubai TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ehabalbizri/files/master/icons/dubai/dubaitv.png",Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1,Dubai ONE
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
