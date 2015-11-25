@@ -1,15 +1,17 @@
 #EXTINF:-1,[COLOR steelblue][B]Long Island[/COLOR][/B]
 
-#EXTINF:-1,01.News 12 Long Island
+#EXTINF:-1,News 12 Long Island
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000 playpath=fs-b4e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b4e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LI live=true swfVfy=true timeout=10
-#EXTINF:-1,02.News 12 Traffic and Weather Long Island
+#EXTINF:-1,News 12 Traffic and Weather Long Island
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-aee3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-aee3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW live=true swfVfy=true timeout=10
 
 #EXTINF:-1,[COLOR yellow][B]Islam[/COLOR][/B]
 
-#EXTINF:-1,01.Sunnah TV
+#EXTINF:-1,Al Resalah-tv
+rtmp://74.50.103.199:1935/live?v=702859785 playpath=salare?key=F0645B69278437229F1C8606B4112D244ABFDEA1B7758ACE0722110E372FB15E swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=alresalah_tv&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/alresalah-tv-live.php
+#EXTINF:-1,Sunnah TV
 http://46.245.160.224/medine/medine/gmswf.m3u8
-#EXTINF:-1,02.Quran TV
+#EXTINF:-1,Quran TV
 http://46.245.160.224/mekke/mekke/gmswf.m3u8
 
 #EXTINF:-1,[COLOR lime][B]Gulf[/COLOR][/B]
@@ -56,8 +58,14 @@ http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 #EXTINF:-1,[COLOR magenta][B]Lebanon[/COLOR][/B]
 
+#EXTINF:0,MTV
+rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision_360p swfUrl=http://gold.mtv.com.lb/Player/451/jwplayer.flash.swf live=1 pageUrl=http://gold.mtv.com.lb/Player/654/451
+#EXTINF:-1,MTV (Backup)
+rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p
 #EXTINF:0,01.Al Aan
 rtmp://livestreaming.itworkscdn.net/alaanlive playpath=alaantv swfUrl=http://itworks-me.net/alaan/jwplayer.flash.swf live=1 pageUrl=http://itworks-me.net/alaan/
+#EXTINF:0,Al Manar  
+rtmp://38.96.148.199:1935/liveedge1/ playpath=livestream_360p swfUrl=http://www.almanar.com.lb/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.almanar.com.lb/manarlive.php
 #EXTINF:-1,02.Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
 
@@ -96,6 +104,8 @@ rtmp://64.251.14.168/jorlive/jrtv
 
 #EXTINF:-1,[COLOR forestgreen][B]Iraq[/COLOR][/B]
 
+#EXTINF:0,Al Hurra
+rtmp://cp51007.live.edgefcs.net:1935/live playpath=Alhurra_Flash@15 swfUrl=http://www.elahmad.com/tv/swf/Alhurra.swf?&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm 
 #EXTINF:-1,01.Al Youm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,02.Al Baghdadia
