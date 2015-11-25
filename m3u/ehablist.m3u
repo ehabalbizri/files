@@ -1,6 +1,6 @@
 #EXTINF:-1,[COLOR steelblue][B]Long Island[/COLOR][/B]
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ehabalbizri/files/master/icons/abu%20dhabi/abudhabi.png" ,01.News 12 Long Island
+#EXTINF:-1,01.News 12 Long Island
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000 playpath=fs-b4e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b4e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LI live=true swfVfy=true timeout=10
 #EXTINF:-1,02.News 12 Traffic and Weather Long Island
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-aee3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-aee3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW live=true swfVfy=true timeout=10
