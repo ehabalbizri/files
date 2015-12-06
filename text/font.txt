@@ -6,8 +6,8 @@
 \pard\pardeftab720
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-name="EATV Font"\
-url="https://copy.com/bLpVkSPjKtiP3K6V"\
-img="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/logo.png"\
+name="Install EATV Font"\
+url="https://copy.com/EwWnHHgIwi9By1gc"\
+img="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/install.png"\
 fanart="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/home.jpg"\
 description="EATV Font"}
