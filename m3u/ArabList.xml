@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!--
+<channels>
+
+	<channel>
+		<name>Arab List</name>
+		<thumbnail>http://community-links.googlecode.com/svn/icons/icon.png</thumbnail>
+		<items>
+-->		
+
+			<item>
+				<title>News 12 Long Island</title>
+				<link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000 playpath=fs-b4e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b4e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LI live=true swfVfy=true timeout=10</link>
+				<thumbnail>http://community-links.googlecode.com/svn/icons/nasa.png</thumbnail>
+			</item>
+		  
+			<item>
+				<title>News 12 Traffic and Weather Long Island</title>
+				<link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-aee3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-aee3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW live=true swfVfy=true timeout=10</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>Sunnah TV</title>
+				<link>http://46.245.160.224/medine/medine/gmswf.m3u8</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>Quran TV</title>
+				<link>http://46.245.160.224/mekke/mekke/gmswf.m3u8</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>Dubai TV</title>
+				<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+
+			<item>
+			  <title>Canada \ Newfoundland \ Outside Larrys Place</title>
+			  <link>http://www.camstreams.com/asx.asp?user=larrytuck</link>
+			  <thumbnail>http://search.earthcam.com/camshots/120x90/274a9fe53a881423b2f5b7570fef52d7.jpg</thumbnail>
+			</item>
+   
+			<item>
+				<title>Japan \ Tokyo \ Chuo City</title>
+				<link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=tokyo1.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+
+			<item>
+				<title>Netherlands \ Amsterdam \ Koningsplein HD</title>
+				<link>rtmp://media.terena.org/rtplive/mp4:stream2.mp4 swfURL="http://www.terena.org/javascript/mediaplayer/player.swf" pageURL="http://www.terena.org/webcam/" swfVfy=true live=true timeout=180</link>
+				<thumbnail>none</thumbnail>
+			</item>
+			
+			<item>
+				<title>Netherlands \ Blue Tit Bird House</title>
+				<link>http://www.camstreams.com/asx.asp?user=pa3aui</link>
+				<thumbnail>http://search.earthcam.com/camshots/120x90/274a9fe53a881423b2f5b7570fef52d7.jpg</thumbnail>
+			</item>
+			
+			<item>
+				<title>Netherlands \ Birds Nest With Eggs</title>
+				<link>rtsp://streaming.webcam.nl:1935/meinerswijk/meinerswijk.stream</link>
+				<thumbnail>http://search.earthcam.com/camshots/120x90/274a9fe53a881423b2f5b7570fef52d7.jpg</thumbnail>
+			</item>
+			
+			<item>
+				<title>Philippines \ Boracay Island \ White Beach</title>
+				<link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=philippinesHD1.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>Russia \ Moscow \ Skyline</title>
+				<link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=moscowHD1.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United Kingdom \ Cumberland \ Cats at rest in garden</title>
+				<link>http://www.camstreams.com/asx.asp?user=hopinpop</link>
+				<thumbnail>http://www.pinksaint.com/wp-content/uploads/2009/04/wall-puppy.bmp/thumbnail>
+			</item>
+      
+			<item>
+				<title>United Kingdom \ London \ Abbey Road</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=AbbeyRoadHD1.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United Kingdom \ West Sussex \ Flys \ Ants \</title>
+				<link>http://www.camstreams.com/asx.asp?user=dickbowyer</link>
+				<thumbnail>http://pested.ifas.ufl.edu/newsletters/november2006/flies.jpg</thumbnail>
+			</item>
+
+			<item>
+				<title>United Kingdom \ Devizes \ Wiltshire \ Budgie Tweet Teeeeet</title>
+				<link>http://www.camstreams.com/asx.asp?user=jjlothin</link>
+				<thumbnail>http://i733.photobucket.com/albums/ww332/jjlothin/Ian%20and%20Marshall/IanMarshallfluffballs.jpg</thumbnail>
+			</item>
+      
+			<item>
+				<title>United Kingdom \ Bronte Country \ West Yorkshire \ Baird Feeder Outside Live Cam</title>
+				<link>http://www.camstreams.com/asx.asp?user=natureoncam</link>
+				<thumbnail>http://www.camstreams.com/img/awnopic.jpg</thumbnail>
+			</item>
+
+			<item>
+				<title>United Kingdom \ Towcester \ Northants \ Towcester Blue tit nest box 2011</title>
+				<link>http://www.camstreams.com/asx.asp?user=mello58</link>
+				<thumbnail>http://www.camstreams.com/img/awnopic.jpg</thumbnail>
+			</item>
+         
+       <item>
+				<title>United Kingdom \ Leeds \ Wetherby \ Wetherby Racecourse</title>
+				<link>http://www.carbuyingguide.org.uk/webcam/capture1.jpg?1308221095035</link>
+				<thumbnail>http://www.carbuyingguide.org.uk/webcam/capture1.jpg</thumbnail>
+			</item>
+         
+      <item>
+				<title>United Kingdom \ Leeds \ Wetherby \ Wetherby Racecourse</title>
+				<link>http://www.clevedonweather.co.uk/images/eastcam.jpg</link>
+				<thumbnail>http://www.clevedonweather.co.uk/images/eastcam.jpg</thumbnail>
+			</item>
+         
+      <item>
+ 				<title>United Kingdom \ Bristol \ Avonmouth \ Live Weather conditions</title>
+ 				<link>http://www.clevedonweather.co.uk/images/eastcam.jpg</link>
+ 				<thumbnail>http://www.clevedonweather.co.uk/images/eastcam.jpg</thumbnail>
+ 			</item>
+         
+      <item>
+ 				<title>United Kingdom \ Buxton \ Live Buxton Weather</title>
+ 				<link>http://buxtonweather.viewnetcam.com/ImageViewer?Direction=&Resolution=640x480&Quality=Clarity&Size=STD&PresetOperation=Move&Data=0&Frame2=PanTilt&Type=&Language=0&RPeriod=0&Sound=Enable&Mode=MPEG-4&SendMethod=1&View=Normal</link>
+ 				<thumbnail>http://www.buxtonweather.fsnet.co.uk/buxtonview.jpg</thumbnail>
+ 			</item>
+      
+			<item>
+				<title>United States \ Chicago \ Wrigley Field</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=wrigleyfieldcamHD.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Fort Lauderdale</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=windjammerHD.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Las Vegas \ Monte Carlo</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=monte_carlo.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Las Vegas \ Wedding Chapel</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=wedding_chapel.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Las Vegas \ Welcome Sign</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=eclasvegas.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Los Angeles \ Hollywood Blvd</title>
+				<link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=lacitytours1.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Miami \ Bayfront Park</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd5.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Miami \ Biscayne Beach</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd4.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Miami \ Coconut Grove</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd3.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Miami \ South Beach</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd1.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Miami \ Sunny Isles Beach</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd2.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Myrtle Beach</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3635.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ New York \ 43rd &amp; Broadway</title>
+				<link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=tsoneHD1.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ New York \ 46th &amp; Broadway</title>
+				<link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=fridaysHD1.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ New York \ 7th &amp; Broadway</title>
+				<link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=hdtimes.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ New York \ Liberty Island</title>
+				<link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=sliberty.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Palm Beach</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=breakerhd.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Panama City</title>
+				<link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=pinewill.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ San Diego \ Mission Beach</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3478.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ Florida \ 7 Puppies Live Cam</title>
+				<link>http://www.camstreams.com/asx.asp?user=bitsy7puppycam</link>
+				<thumbnail>http://i54.tinypic.com/5v3zbo.jpg</thumbnail>
+			</item>
+
+			<item>
+				<title>United States \ Florida \ Horses Barn CCTV Cam</title> <!-- 10sec changes-->
+				<link>http://www.camstreams.com/asx.asp?user=byluc2</link>
+				<thumbnail>http://c2429732.cdn.cloudfiles.rackspacecloud.com/14445</thumbnail>
+			</item>
+
+			<item>
+				<title>United States \ Watttsburg \ Bird AND Squirrel Feeder</title>
+				<link>http://www.camstreams.com/asx.asp?user=ken6262</link>
+				<thumbnail>http://mysite.verizon.net/resvqdon/pictures/feeder2.jpg</thumbnail>
+			</item>
+      
+			<item>
+				<title>United States \ St. Louis</title>
+				<link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=stlouis.flv live=true timeout=180</link>
+				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+			</item>
+			
+
+<!--			
+		 </items>
+	</channel>
+
+</channels>
+-->
