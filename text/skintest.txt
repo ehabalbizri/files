@@ -7,7 +7,7 @@
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
 name="On 1&1/2"\
-url="https://copy.com/wizdFeFBPQreICCH"\
+url="https://copy.com/ZPBaIzYUGDgkI4GS"\
 img="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/logo.png"\
 fanart="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/ehabtvwall.jpg"\
 description="skin ivue"}
