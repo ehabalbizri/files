@@ -43,16 +43,26 @@ rtmp://stream02.fasttelco.net:1935/live/_definst_ playpath=alrai.stream swfUrl=h
 
 #EXTINF:-1,[COLOR royalblue][B]MBC Group[/COLOR][/B]
 
+#EXTINF:-1,mbc 1
+http://148.251.73.76:8000/live/cristo/start1/306.m3u8
 #EXTINF:-1,01.MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1,mbc 2 (backup)
+http://148.251.73.76:8000/live/cristo/start1/297.m3u8
 #EXTINF:-1,02.MBC 3
 http://38.99.146.38:7777/MBC3_HD.m3u8?user=1441975005&session=e4724ee6a2741a3a32cf62bb836be4fee3e95ec1692f3cd5f86a8bd3cdd8c76c&v=520489549
 #EXTINF:-1,03.MBC 4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1,mbc 4 (backup)
+http://148.251.73.76:8000/live/cristo/start1/298.m3u8
 #EXTINF:-1,04.MBC MAX 
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1,mbc max (backup)
+http://148.251.73.76:8000/live/cristo/start1/300.m3u8
 #EXTINF:-1,05.MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1,mbc action (backup)
+http://148.251.73.76:8000/live/cristo/start1/299.m3u8
 #EXTINF:-1,06.MBC Bollywood
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
@@ -117,6 +127,8 @@ http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
 
 #EXTINF:-1,[COLOR mediumslateblue][B]News[/COLOR][/B]
 
+#EXTINF:-1, AL JAZEERA
+http://origin.live.web.tv.streamprovider.net/streams/0781744a5665d14230929df58f07b227_live_0_0/index.m3u8
 #EXTINF:-1,AL-Arabiya AL-Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1,BBC Arabia
@@ -135,6 +147,8 @@ rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:-1,Al-Hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1, AL HURRA (backup)
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:0,ANN TV
 rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1,Nabaa 
@@ -143,9 +157,13 @@ rtmp://31.14.40.238:1935/live/Nabaa
 rtmp://109.123.123.82:1935/wesal/wesal1
 #EXTINF:-1,Aljazeera En
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_264.m3u8
+#EXTINF:-1, AL JAZEERA INT
+http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8
 #EXTINF:-1,BBC World News
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:-1,Al Jazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1, AL JAZEERA DOC (backup)
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,NASA
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8

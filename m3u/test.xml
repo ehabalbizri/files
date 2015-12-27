@@ -12,313 +12,307 @@
 			<item>
 				<title>News 12 Long Island</title>
 				<link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000 playpath=fs-b4e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b4e3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LI live=true swfVfy=true timeout=10</link>
-				<thumbnail>http://community-links.googlecode.com/svn/icons/nasa.png</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/12news.png</thumbnail>
 			</item>
 		  
 			<item>
 				<title>News 12 Traffic and Weather Long Island</title>
 				<link>rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000 playpath=fs-aee3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-aee3010000000000 pageURL=http://www.news12.com/player/flowplayer/.live_player.html?region=LITW live=true swfVfy=true timeout=10</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/12weather.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Sunnah TV</title>
 				<link>http://46.245.160.224/medine/medine/gmswf.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/sunnah.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Quran TV</title>
 				<link>http://46.245.160.224/mekke/mekke/gmswf.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/quran.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Dubai TV</title>
 				<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/dubaitv.png</thumbnail>
 			</item>
 
 			<item>
 			  <title>Dubai ONE</title>
 			  <link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8</link>
-			  <thumbnail>http://search.earthcam.com/camshots/120x90/274a9fe53a881423b2f5b7570fef52d7.jpg</thumbnail>
+			  <thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/dubaione.png</thumbnail>
 			</item>
    
 			<item>
 				<title>Noor Dubai</title>
 				<link>http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/noordubai.png</thumbnail>
 			</item>
 
 			<item>
 				<title>Sama Dubai</title>
 				<link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8</link>
-				<thumbnail>none</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/samadubai.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>Dubai Drama</title>
 				<link>http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8</link>
-				<thumbnail>http://search.earthcam.com/camshots/120x90/274a9fe53a881423b2f5b7570fef52d7.jpg</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/dubaidrama.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>Dubai Zaman</title>
 				<link>http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8</link>
-				<thumbnail>http://search.earthcam.com/camshots/120x90/274a9fe53a881423b2f5b7570fef52d7.jpg</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/dubaizaman.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>Qatar</title>
 				<link>rtmp://AgendaStreamerx1.qna.org.qa/qtv/qtv</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/qatartv.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Al Sharjah</title>
 				<link>rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/sharjah.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Kuwait</title>
 				<link>rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp</link>
-				<thumbnail>http://www.pinksaint.com/wp-content/uploads/2009/04/wall-puppy.bmp/thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/kuwait.png</thumbnail>
 			</item>
       
 			<item>
 				<title>KSA</title>
 				<link>http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel02/_definst_/live/stream1.m3u8</link>
-				<thumbnail>http://pested.ifas.ufl.edu/newsletters/november2006/flies.jpg</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/ksa1.png</thumbnail>
 			</item>
 
 			<item>
-				<title>Alrayi</title>
+				<title>Alrai TV</title>
 				<link>rtmp://stream02.fasttelco.net:1935/live/_definst_ playpath=alrai.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.alrai.tv/LiveBroadcast.aspx?lang=ar</link>
-				<thumbnail>http://i733.photobucket.com/albums/ww332/jjlothin/Ian%20and%20Marshall/IanMarshallfluffballs.jpg</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/alrai.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Al Aan</title>
 				<link>rtmp://livestreaming.itworkscdn.net/alaanlive playpath=alaantv swfUrl=http://itworks-me.net/alaan/jwplayer.flash.swf live=1 pageUrl=http://itworks-me.net/alaan/</link>
-				<thumbnail>http://www.camstreams.com/img/awnopic.jpg</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/alaan.png</thumbnail>
 			</item>
 
 			<item>
 				<title>MBC 2</title>
 				<link>http://63.237.48.23/ios/MBC2/MBC2.m3u8</link>
-				<thumbnail>http://www.camstreams.com/img/awnopic.jpg</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/mbc2.png</thumbnail>
 			</item>
          
        <item>
 				<title>MBC 4</title>
 				<link>http://63.237.48.23/ios/MBC_4/MBC_4.m3u8</link>
-				<thumbnail>http://www.carbuyingguide.org.uk/webcam/capture1.jpg</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/mbc4.png</thumbnail>
 			</item>
          
       <item>
 				<title>MBC MAX</title>
 				<link>http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8</link>
-				<thumbnail>http://www.clevedonweather.co.uk/images/eastcam.jpg</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/mbcmax.png</thumbnail>
 			</item>
          
       <item>
  				<title>MBC Action</title>
  				<link>http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
- 				<thumbnail>http://www.clevedonweather.co.uk/images/eastcam.jpg</thumbnail>
+ 				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/mbcaction.png</thumbnail>
  			</item>
          
       <item>
  				<title>MBC Bollywood</title>
  				<link>http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
- 				<thumbnail>http://www.buxtonweather.fsnet.co.uk/buxtonview.jpg</thumbnail>
+ 				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/mbcbol.png</thumbnail>
  			</item>
       
 			<item>
 				<title>Al Manar</title>
 				<link>rtmp://38.96.148.199:1935/liveedge1/ playpath=livestream_360p swfUrl=http://www.almanar.com.lb/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.almanar.com.lb/manarlive.php</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/manar.png</thumbnail>
 			</item>
       
 			<item>
-				<title>Syria</title>
+				<title>Syria Satallite</title>
 				<link>http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/Syrian-TV.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Syria Aloula</title>
 				<link>http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/Syrian-TV.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Syria Drama</title>
 				<link>http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/drama.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Sama Syria</title>
 				<link>http://sama-tv.net:1935/live/samatv/playlist.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/sama.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Syria Nour</title>
 				<link>http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/noor.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Syria Ikhbaria</title>
 				<link>http://82.137.248.16:1935/Snews/SnewsLive3/BratuMarian.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/syrianews.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Talaqie TV</title>
 				<link>rtmp://82.137.248.20/Talaqie/TalaqieLive1</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/Talaqie.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Halab Today TV</title>
 				<link>rtmp://streaming.tootvs.com/8010/8010</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
-			</item>
-      
-			<item>
-				<title>Nour El-Sham</title>
-				<link>rtmp://82.137.248.21/Nour/NourLive2</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/halab.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Al Quds</title>
 				<link>http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/quds.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Maan</title>
 				<link>rtmp://217.21.0.14/maan//mp4:maan_1</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/maansmall.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Jordan</title>
 				<link>rtmp://64.251.14.168/jorlive/jrtv</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/jordan.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Al Hurra</title>
 				<link>rtmp://cp51007.live.edgefcs.net:1935/live playpath=Alhurra_Flash@15 swfUrl=http://www.elahmad.com/tv/swf/Alhurra.swf?&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.html</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/hurra.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Al Youm</title>
 				<link>http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/yomtv.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Al Baghdadia</title>
 				<link>http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/bag.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Al Baghdadia 2</title>
 				<link>http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/bag2.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Al Forat</title>
 				<link>http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/forat.png</thumbnail>
 			</item>
       
 			<item>
 				<title>AL-Arabiya AL-Hadath</title>
 				<link>http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/arahadath.png</thumbnail>
 			</item>
       
 			<item>
 				<title>Sky news arabia</title>
 				<link>http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8</link>
-				<thumbnail>http://i54.tinypic.com/5v3zbo.jpg</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/skynewsarabia.png</thumbnail>
 			</item>
 
 			<item>
 				<title>BBC Arabia</title> <!-- 10sec changes-->
 				<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8</link>
-				<thumbnail>http://c2429732.cdn.cloudfiles.rackspacecloud.com/14445</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/bbc.png</thumbnail>
 			</item>
 
 			<item>
 				<title>DW Arabia</title>
 				<link>http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8</link>
-				<thumbnail>http://mysite.verizon.net/resvqdon/pictures/feeder2.jpg</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/dw.png</thumbnail>
 			</item>
       
 			<item>
 				<title>RT Today Arabic</title>
 				<link>http://rt-a.akamaihd.net/ch_03@325607/320p.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/rtarabic.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>TRT Arabic</title>
 				<link>http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/trtarabic.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>Al Mayadeen</title>
 				<link>rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/myad.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>Al-Hurra Iraq</title>
 				<link>http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/hurra.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>ANN TV</title>
 				<link>rtmp://ns8.indexforce.com/ann/ann</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/ann.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>Nabaa</title>
 				<link>rtmp://31.14.40.238:1935/live/Nabaa</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/nabaa.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>Wesal TV</title>
 				<link>rtmp://109.123.123.82:1935/wesal/wesal1</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/wesal.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>Al Jazeera Doc</title>
 				<link>http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/jazdoc.png</thumbnail>
 			</item>
 			
 			<item>
 				<title>NASA</title>
 				<link>http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8</link>
-				<thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif</thumbnail>
+				<thumbnail>https://raw.githubusercontent.com/ehabalbizri/files/master/icons/list/nasa.png</thumbnail>
 			</item>
 			
 
