@@ -10,4 +10,4 @@ name="On 1&1/2"\
 url="https://copy.com/wizdFeFBPQreICCH"\
 img="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/logo.png"\
 fanart="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/ehabtvwall.jpg"\
-description="EATV theme"}
+description="skin ivue"}
