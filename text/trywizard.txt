@@ -1,6 +1,6 @@
 
 name="Install ehabtv"
-url="https://www.dropbox.com/s/cszfmfkm4zdwe2f/trybuild.zip?dl=1"
+url="https://www.dropbox.com/s/3r5tuli9uidkwgb/yarab.zip?dl=1"
 img="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/install%202.png"
 fanart="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/themepics/black.jpg"
 description="My Kodi Wizard"
