@@ -1,5 +1,5 @@
 
-name="Install ON1&1/2"
+name="Install"
 url="https://www.dropbox.com/s/n3kgpli3r7toc0w/build.zip?dl=1"
 img="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/icon.png"
 fanart="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/fanart.jpg"
