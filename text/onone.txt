@@ -1,0 +1,8 @@
+
+name="Install"
+url="https://www.dropbox.com/s/6tvn1zbv4m8ca48/backup.zip?dl=1"
+img="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/icon.png"
+fanart="https://raw.githubusercontent.com/ehabalbizri/files/master/pictures/fanart.jpg"
+description="Arabic Kodi Setup"
+
+
